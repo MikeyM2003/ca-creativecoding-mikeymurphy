@@ -145,7 +145,7 @@ function setup() {
 	barCharts.push(new BarChart(barChart03));
 	barCharts.push(new BarChart(barChart04));
 	barCharts.push(new HorizontalBarChart(barChart05));
-	barCharts.push(new ScatterChart(Chart06));
+	barCharts.push(new LineChart(Chart06));
 
 }
 

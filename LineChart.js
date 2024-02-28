@@ -1,4 +1,4 @@
-class ScatterChart {
+class LineChart {
 	constructor(obj) {
 		//this is the actual data from the csv file
 		this.data = obj.data;
